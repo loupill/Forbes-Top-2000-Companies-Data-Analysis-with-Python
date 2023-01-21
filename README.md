@@ -1,1 +1,1 @@
-# dsprojects
+# The goal of this project
